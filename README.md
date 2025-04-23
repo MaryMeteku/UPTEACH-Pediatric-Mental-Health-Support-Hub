@@ -69,7 +69,10 @@ Using datasets from Kaggle on youth suicidal behavior and heart disease, UPTEACH
 - Benjamin Asomaning  
 - Mary Nnipaa Meteku  
 - David Blemano
-  
+
+## Link to Google Looker Dashboard
+https://lookerstudio.google.com/u/1/reporting/db8f9a65-3cd7-4b57-a63f-88e651c83564/page/cwa0D
+
 ## 📚 References & Datasets
 
 - [Suicidal Behavior of Youth Dataset](https://www.kaggle.com/datasets/priya0707/suicidal-behavior-of-youth)  
